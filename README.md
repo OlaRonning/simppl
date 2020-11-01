@@ -1,2 +1,2 @@
 # simppl
-A simple ppl
+A simple ppl for simulation
