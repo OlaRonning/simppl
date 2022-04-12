@@ -1,2 +1,2 @@
 # simppl
-A simple ppl for simulation
+A simple probabilistic programming language for simulation
